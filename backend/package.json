@@ -1,0 +1,11 @@
+{
+  "name": "compare-the-mp-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jake Tysome",
+  "license": "MIT"
+}
